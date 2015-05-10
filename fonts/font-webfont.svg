@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg>
+<metadata>
+Created by FontForge 20090622 at Sat May  9 18:06:43 2015
+ By deploy user
+</metadata>
+<defs>
+<font id="font3363" horiz-adv-x="1024" >
+  <font-face 
+    font-family="SVGFont 0"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1024"
+    panose-1="2 0 5 9 0 0 0 0 0 0"
+    ascent="819"
+    descent="-205"
+    bbox="0 -0.285714 1000 1024"
+    underline-thickness="0"
+    underline-position="0"
+    unicode-range="U+0061-U+0062"
+  />
+<missing-glyph 
+d="M0 0h1000v1024h-1000v-1024z" />
+    <glyph glyph-name=".notdef" 
+d="M0 0h1000v1024h-1000v-1024z" />
+    <glyph glyph-name=".notdef" 
+d="M0 0h1000v1024h-1000v-1024z" />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" 
+ />
+    <glyph glyph-name="гліф 1" unicode="a" 
+d="M260 1q-81 8 -147 61q-24 19 -44 44q-55 69 -67 161q-2 13 -2 40q0 26 2 43.5t8 41.5q8 30 23.5 60.5t34.5 55.5q23 28 48 48q23 17 47.5 29.5t49.5 19.5q3 1 5.5 1.5t4 1l1.5 0.5l-0.5 2.5t-1.5 6.5q-8 35 -8 76q0 20 2 38t6 35.5t10 34t14 33.5q30 62 81 103.5
+t114 55.5q16 4 28 5t30 1q32 0 59 -6q55 -12 101.5 -46.5t78.5 -85.5q16 -25 26 -54q21 -54 21 -114q0 -21 -2 -39.5t-7 -36.5q-2 -8 -1.5 -8.5t4 -1.5t7.5 -2q51 -14 96 -49q9 -7 25 -22.5t23 -24.5q31 -40 49 -88q7 -17 11.5 -37t7.5 -41q1 -7 1 -22t-0.5 -30.5
+t-1.5 -23.5q-4 -31 -13 -59t-22.5 -53.5t-31.5 -48.5q-8 -10 -21.5 -23.5t-23.5 -20.5q-36 -30 -79 -45.5t-87.5 -16.5t-89.5 14q-50 17 -91 51q-4 3 -9 7.5t-9.5 9.5t-9.5 10t-7 8l-4 4l-3 -4q-3 -4 -11 -12t-17 -16t-13 -12q-29 -23 -63 -37.5t-71 -20.5q-30 -4 -61 -1z
+" />
+    <glyph glyph-name="гліф 2" unicode="b" 
+d="M249 250l-249 249l250 250l249 249l250 -249l250 -250l-250 -249q-249 -250 -249.5 -250t-250.5 250z" />
+  </font>
+</defs></svg>
